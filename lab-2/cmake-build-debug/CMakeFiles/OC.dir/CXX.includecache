@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/OS2/lab-2/Point.h
+string
+-
+
+D:/OS2/lab-2/main.cpp
+iostream
+-
+condition_variable
+-
+memory
+-
+thread
+-
+fstream
+-
+string
+-
+ctime
+-
+Point.h
+D:/OS2/lab-2/Point.h
+vector
+-
+
